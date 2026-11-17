@@ -2,7 +2,7 @@
 
 Aplicación web interactiva para explorar un conjunto de más de 51,000 anuncios de coches usados en Estados Unidos. Está hecha con **Streamlit** y **Plotly**, y desplegada en **Render**.
 
-🔗 **Aplicación desplegada:** https://TU-APP.onrender.com
+🔗 **Aplicación desplegada:** https://proyecto-sprint-7-21rx.onrender.com
 
 > Nota: en el plan gratuito de Render la app se "duerme" tras unos minutos de inactividad. Si tarda en cargar, espera unos 30–60 segundos y actualiza la página.
 
